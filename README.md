@@ -45,6 +45,7 @@ This program evaluates the trained model after every epoch and then outputs the 
  3. `dloss.txt`: An output file that contains the training loss of target model for every epoch.
  4. `dacc.txt`: An output file that contains the validation accuracy of target model for every epoch.
  5. `./checkpoint`: The checkpoint files generated after every epoch. This directory is created only when `checkpoint` is set to 1 in `config.py`.
+
 ## Questions / Comments
- * Jihyun Lim (wlguslim@inha.edu)
- * Sunwoo Lee (sunwool@inha.ac.kr)
+ * Jihyun Lim(wlguslim@inha.edu) <a href="https://github.com/jjihyunh"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a>
+ * Sunwoo Lee (sunwool@inha.ac.kr) <a href="https://github.com/swblaster"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a>
